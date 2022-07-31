@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLE_Project", "BLE_Project\BLE_Project.csproj", "{A6B5363D-C8CE-4F2E-8468-39AEB8923A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6B5363D-C8CE-4F2E-8468-39AEB8923A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B5363D-C8CE-4F2E-8468-39AEB8923A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B5363D-C8CE-4F2E-8468-39AEB8923A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B5363D-C8CE-4F2E-8468-39AEB8923A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB38D2E2-5C5D-4376-A17D-2D1114B54465}
+	EndGlobalSection
+EndGlobal
